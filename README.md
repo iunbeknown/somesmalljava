@@ -1,0 +1,2 @@
+# somesmalljava
+save some codes
